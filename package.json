@@ -5,9 +5,7 @@
 	"main": "index.html",
 	"homepage": "https://kanishkkalyani.github.io/Tic-Tac-Toe/",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
